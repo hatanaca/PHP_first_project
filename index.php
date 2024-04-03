@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1>Estamos aprendendo PHP!</h1>
-    <?php
-      echo "Vamos prosseguir aprendendo PHP";
-    ?>
-  </body>
-</html>
+<?php
+  echo "Teste 1 ";
+  echo "teste 2";
